@@ -10,11 +10,13 @@ This is by no means mandatory. If you really wanted to, you can see what bugs I 
 
 ⭐ Please **DO NOT** make your edits directly to this repository, or try to commit them / make a PR. Rather, **fork it** and play around with your repo as much as you want.
 
+Feel free to reach out to me (Gerry) if there are any issues / confusion / suggestions for improvement with the repo, or anyone from the UW ASIC team.
+
 ### 📖 Current Version / Version History:
 v1.0 - Just starting out!
 
 ### Contributors
-Gerry Chen
+Gerry Chen (gerry.jr.chen@gmail.com, gjrchen@uwaterloo.ca)
 
 ## Instructions
 
